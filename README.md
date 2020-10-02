@@ -1,4 +1,4 @@
-# Html
+# Html - For Beginners
 This repository contains some of the basic html programs
 Programs include:-
 1. Making tables using html
